@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.william.main","l":"main"},{"p":"com.william.gui","l":"MainFrame"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();
